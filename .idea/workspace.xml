@@ -10,7 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab60c930-0e5b-49f6-8c90-5f2fab4b46ed" name="Default Changelist" comment="" />
+    <list default="true" id="ab60c930-0e5b-49f6-8c90-5f2fab4b46ed" name="Default Changelist" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +58,7 @@
       <workItem from="1604003319703" duration="64000" />
       <workItem from="1604003533372" duration="12000" />
       <workItem from="1604003592601" duration="3682000" />
-      <workItem from="1604169975596" duration="146000" />
+      <workItem from="1604169975596" duration="6021000" />
     </task>
     <task id="LOCAL-00001" summary="My first commit on the project.">
       <created>1603989749740</created>
@@ -89,29 +93,33 @@
     <option name="LAST_COMMIT_MESSAGE" value="My first commit on the project." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1603989747008">
+    <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1604170714443">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="304" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1603989747008" />
-    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1604169933587">
+    <state x="304" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1604170714443" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1604170171888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604169933587" />
-    <state x="549" y="261" key="Github.ShareDialog" timestamp="1604170067972">
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1604170171888" />
+    <state x="549" y="261" key="Github.ShareDialog" timestamp="1604170426853">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="549" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1604170067972" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1604170120984">
+    <state x="549" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1604170426853" />
+    <state x="451" y="61" key="Github.UntrackedFilesDialog" timestamp="1604170445261">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604170120984" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604169612968">
+    <state x="451" y="61" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604170445261" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1604170227900">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604169612968" />
-    <state x="449" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604011769422">
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604170227900" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1604170908565">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="449" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604011769422" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604170908565" />
+    <state x="449" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604171750670">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="449" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604171750670" />
   </component>
 </project>
