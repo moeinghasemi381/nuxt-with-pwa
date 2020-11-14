@@ -11,7 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab60c930-0e5b-49f6-8c90-5f2fab4b46ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605385230301</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="eighth.">
+      <created>1605385354017</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605385354017</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,13 +157,14 @@
     <MESSAGE value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the fifth time)" />
     <MESSAGE value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the sixth time)" />
     <MESSAGE value="seventh." />
-    <option name="LAST_COMMIT_MESSAGE" value="seventh." />
+    <MESSAGE value="eighth." />
+    <option name="LAST_COMMIT_MESSAGE" value="eighth." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="66" y="0" key="CommitChangelistDialog2" timestamp="1605385229749">
+    <state x="66" y="0" key="CommitChangelistDialog2" timestamp="1605385353069">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="66" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605385229749" />
+    <state x="66" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605385353069" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1604170171888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -174,10 +181,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1604170227900" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605381632012">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1605385356117">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605381632012" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1605385356117" />
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1605383435342">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
