@@ -10,8 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab60c930-0e5b-49f6-8c90-5f2fab4b46ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ab60c930-0e5b-49f6-8c90-5f2fab4b46ed" name="Default Changelist" comment="changed nuxt.config.js file in order the project to get deployed on vercel. (for the sixth time)">
       <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605384848386</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changed nuxt.config.js file in order the project to get deployed on vercel. (for the sixth time)">
+      <created>1605385077234</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605385077234</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -132,10 +138,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the sixth time)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="66" y="0" key="CommitChangelistDialog2" timestamp="1605384847632">
+    <state x="66" y="0" key="CommitChangelistDialog2" timestamp="1605385175553">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="66" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605384847632" />
+    <state x="66" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605385175553" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1604170171888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
