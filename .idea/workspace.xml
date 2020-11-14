@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab60c930-0e5b-49f6-8c90-5f2fab4b46ed" name="Default Changelist" comment="changed nuxt.config.js file in order the project to get deployed on vercel. (for the sixth time)">
+    <list default="true" id="ab60c930-0e5b-49f6-8c90-5f2fab4b46ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/nuxt.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/nuxt.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605385077234</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changed nuxt.config.js file in order the project to get deployed on vercel. (for the sixth time)">
+      <created>1605385190085</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605385190085</updated>
+    </task>
+    <task id="LOCAL-00009" summary="seventh.">
+      <created>1605385230301</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605385230301</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,13 +150,14 @@
     <MESSAGE value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the fourth time)" />
     <MESSAGE value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the fifth time)" />
     <MESSAGE value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the sixth time)" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the sixth time)" />
+    <MESSAGE value="seventh." />
+    <option name="LAST_COMMIT_MESSAGE" value="seventh." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="66" y="0" key="CommitChangelistDialog2" timestamp="1605385175553">
+    <state x="66" y="0" key="CommitChangelistDialog2" timestamp="1605385229749">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="66" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605385175553" />
+    <state x="66" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605385229749" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1604170171888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
