@@ -69,6 +69,6 @@ export default {
   },
 
   generate: {
-    dir: 'dist'
+    dir: 'public'
   }
 }
