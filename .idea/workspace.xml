@@ -80,7 +80,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605381896017</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="changed nuxt.config.js file in order the project to get deployed on vercel. (for the fourth time)">
+      <created>1605383686826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605383686826</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,13 +112,14 @@
     <MESSAGE value="My first commit on the project." />
     <MESSAGE value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the second time)" />
     <MESSAGE value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the third time)" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the third time)" />
+    <MESSAGE value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the fourth time)" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed nuxt.config.js file in order the project to get deployed on vercel. (for the fourth time)" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="66" y="0" key="CommitChangelistDialog2" timestamp="1605381895153">
+    <state x="66" y="0" key="CommitChangelistDialog2" timestamp="1605383686127">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="66" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605381895153" />
+    <state x="66" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1605383686127" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1604170171888">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -136,6 +144,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="92" y="92" width="1182" height="544" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1605383435342" />
+    <state x="390" y="97" width="585" height="534" key="find.popup" timestamp="1605383998545">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="97" width="585" height="534" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1605383998545" />
     <state x="449" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604171750670">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
